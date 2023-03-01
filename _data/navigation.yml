@@ -1,0 +1,25 @@
+# main links links
+main:
+  - title: "首页"
+    url: /publications/
+
+  - title: "研究方向"
+    url: /talks/    
+
+  - title: "实验室成员"
+    url: /teaching/    
+    
+  - title: "实验室成果"
+    url: /portfolio/
+        
+  - title: "研究进展"
+    url: /year-archive/
+    
+  - title: "研究合作"
+    url: /cv/
+    
+  - title: "学术交流"
+    url: /markdown/
+
+  - title: "实验室新闻"
+    url: /markdown/
